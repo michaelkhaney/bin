@@ -1,0 +1,3 @@
+#!/bin/bash
+
+qutebrowser --target {tab} https://github.com/michaelkhaney
